@@ -3,7 +3,7 @@
 ## Scraping tables from Wikipedia.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/FAR1DoOYo18
 
 ## :grey_question: What is it?
 * Scrapes table information from Wikipedia. Note the limitations I mention in the video.
